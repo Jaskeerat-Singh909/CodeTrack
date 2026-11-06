@@ -1,0 +1,21 @@
+# React
+CodeTrackFrontend/node_modules/
+CodeTrackFrontend/dist/
+
+# Spring Boot
+CodeTrackBackend/target/
+
+# IDE
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
